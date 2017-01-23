@@ -7,7 +7,7 @@ Have a blast destroying a horde of monster while protecting beautiful pixelated 
 * Click to shoot
 * 1 - 4 number keys are for choosing weapons
 
-## Build excecutable for Linux
+## Build executable for Linux
 ### Clone repo from GitHub
 ```
 $ git clone https://github.com/walker2/KillEmAll
